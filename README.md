@@ -1,0 +1,1 @@
+A RESTful API built using Java and Spring Boot, following industry best practices. Implements CRUD operations, authentication, and database integration with MySQL. Designed for scalability and maintainability.
